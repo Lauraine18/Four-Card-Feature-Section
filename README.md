@@ -4,7 +4,11 @@
   * Html
   * Css(flexbox, grid)
   
- **Inspiration**
+  **Details**
+
+ Project was inspired by https://www.frontendmentor.io/
+ 
+ **View**
 
  <h2 align="center">Mobile Design</h2>
  <p align="center">
