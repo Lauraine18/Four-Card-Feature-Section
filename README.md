@@ -16,11 +16,3 @@
   <img  src="./Designs/desktop-design.jpg" width="666">
   </p>
    
-  <style>
-      h2{
-          font-weight:bold;
-      }
-    
-      
-    </style>
-
